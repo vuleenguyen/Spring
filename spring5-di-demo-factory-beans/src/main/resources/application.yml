@@ -1,0 +1,14 @@
+guru:
+  jms:
+     username: JMS Username
+     password: somepass
+     url: SomeURL
+
+---
+spring.profiles: de
+
+guru:
+  jms:
+     username: JMS Username***IN***GEMANY
+     password: somepass***IN***GEMANY
+     url: SomeURL***IN***GEMANY
